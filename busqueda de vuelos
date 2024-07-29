@@ -1,0 +1,8 @@
+// Ejemplo de código para la búsqueda de vuelos
+const buscarVuelos = (origen, destino, fecha) => {
+    // Lógica para buscar vuelos
+    console.log(`Buscando vuelos de ${origen} a ${destino} para la fecha ${fecha}`);
+};
+
+// Uso de la función
+buscarVuelos('Madrid', 'Barcelona', '2024-08-15');
